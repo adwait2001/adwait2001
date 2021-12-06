@@ -38,15 +38,15 @@
 <img align="left" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
-<br >
-<br />
+<br>
+<br/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical" />
 </p>
 
-<br >
-<br />
+<br>
+<br/>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwait2001&theme=radical" />
