@@ -1,4 +1,4 @@
-### Hey there, I'm Adwait 👋
+### <h3>Hey there, I'm Adwait 👋</h3>
 
 ### Languages and Tools:
 
