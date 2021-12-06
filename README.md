@@ -26,9 +26,8 @@
 <br />
 <br />
 
-<p align="center">
-(https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical)
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical" />
+
 
 
 
