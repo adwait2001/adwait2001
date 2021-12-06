@@ -1,4 +1,6 @@
-### Hey there, I'm Adwait 👋<
+<h1 align="center">Hey there, I'm Adwait 👋</h1>
+
+### Hey there, I'm Adwait 👋
 
 - 🌱 I’m currently learning Django-Rest , Ethereum and Blockchain
 - 👯 I’m looking to collaborate on any Open Source Projects 
