@@ -1,4 +1,9 @@
-### <h3>Hey there, I'm Adwait 👋</h3>
+###Hey there, I'm Adwait 👋<
+
+- 🌱 I’m currently learning Django-Rest , Ethereum and Blockchain
+- 👯 I’m looking to collaborate on any Open Source Projects 
+- 📫 How to reach me: adwaitnsk2017@gmail.com
+
 
 ### Languages and Tools:
 
@@ -23,7 +28,7 @@
 
 ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwait2001&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
