@@ -45,7 +45,7 @@
 <br>
 <br/>
 
-<p align="center">
+<p align="center" margin-top="12px>
 <img src="https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical" />
 </p>
 
