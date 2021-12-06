@@ -45,15 +45,19 @@
 <br>
 <br/>
 
-<p align="center" margin-top="12px>
-<img src="https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical" />
+
+
+
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwait2001&theme=radical" />
 </p>
 
 <br>
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwait2001&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical" />
 </p>
 
 
