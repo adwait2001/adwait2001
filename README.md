@@ -40,16 +40,11 @@
 
 
 
-
-
 <br>
 <br/>
 
 
-
-
-
-<p align="center">
+<p style="margin-top: 30px;" align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwait2001&theme=radical" />
 </p>
 
