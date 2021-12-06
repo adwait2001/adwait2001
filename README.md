@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I'm Adwait 👋</h1>
 
-### Hey there, I'm Adwait 👋
 
 - 🌱 I’m currently learning Django-Rest , Ethereum and Blockchain
 - 👯 I’m looking to collaborate on any Open Source Projects 
@@ -27,9 +26,9 @@
 <br />
 <br />
 
-
+<p align="center">
 ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=adwait2001&show_icons=true&theme=radical)
-
+</p>
 
 
 
