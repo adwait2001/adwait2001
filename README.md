@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Adwait 👋</h1>
 
 
-- 🌱 I’m currently learning Django-Rest , HyperLedger and Blockchain
+- 🌱 I’m currently learning Django-Rest , HyperLedger and Web 3
 - 👯 I’m looking to collaborate on any Open Source Projects 
 - 📫 How to reach me: adwaitnsk2017@gmail.com
 
